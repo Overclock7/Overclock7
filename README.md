@@ -4,7 +4,7 @@
 
 # Skill 👊
 
-### Platforms & Languages 📖
+### - Platforms & Languages 📖
 
 ![Python](https://img.shields.io/badge/Python-9776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ##### - Learned Languages
